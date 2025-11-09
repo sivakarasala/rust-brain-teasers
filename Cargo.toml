@@ -1,0 +1,9 @@
+[package]
+name = "rust-brain-teasers"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[workspace]
+members = ["three_and_a_bit"]
