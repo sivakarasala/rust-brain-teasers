@@ -13,3 +13,7 @@ version = "0.1.0"
 [[package]]
 name = "three_and_a_bit"
 version = "0.1.0"
+
+[[package]]
+name = "type_conversion"
+version = "0.1.0"
