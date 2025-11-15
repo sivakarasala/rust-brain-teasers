@@ -23,6 +23,10 @@ name = "linked_list"
 version = "0.1.0"
 
 [[package]]
+name = "mutable_immutable"
+version = "0.1.0"
+
+[[package]]
 name = "out_of_order"
 version = "0.1.0"
 
