@@ -67,5 +67,9 @@ name = "type_conversion"
 version = "0.1.0"
 
 [[package]]
+name = "vec_size"
+version = "0.1.0"
+
+[[package]]
 name = "x_marks_spot"
 version = "0.1.0"
