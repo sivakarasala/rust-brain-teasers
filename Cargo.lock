@@ -27,6 +27,10 @@ name = "reboot_universe"
 version = "0.1.0"
 
 [[package]]
+name = "reverse_polarity"
+version = "0.1.0"
+
+[[package]]
 name = "rust-brain-teasers"
 version = "0.1.0"
 
