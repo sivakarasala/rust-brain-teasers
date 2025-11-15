@@ -37,6 +37,10 @@ name = "double_or_nothing"
 version = "0.1.0"
 
 [[package]]
+name = "gordian_knot"
+version = "0.1.0"
+
+[[package]]
 name = "hello_bonjour"
 version = "0.1.0"
 
