@@ -6,4 +6,4 @@ edition = "2024"
 [dependencies]
 
 [workspace]
-members = ["byte_sized", "reboot_universe","standard_input", "string_length","three_and_a_bit", "type_conversion"]
+members = ["byte_sized", "reboot_universe","standard_input", "string_length", "there_and_back","three_and_a_bit", "type_conversion"]
