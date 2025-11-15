@@ -6,4 +6,4 @@ edition = "2024"
 [dependencies]
 
 [workspace]
-members = ["three_and_a_bit"]
+members = ["standard_input","three_and_a_bit"]
