@@ -6,4 +6,4 @@ edition = "2024"
 [dependencies]
 
 [workspace]
-members = ["amnesia","boxes","byte_sized", "const_loop", "double_or_nothing", "gordian_knot", "hello_bonjour", "linked_list", "mutable_immutable", "out_of_order", "quack", "reboot_universe", "reverse_polarity", "sleepless","standard_input", "string_length", "structure_sizing", "there_and_back","three_and_a_bit", "type_conversion", "vec_size", "waiting_for_godot", "x_marks_spot"]
+members = ["amnesia","boxes","byte_sized", "const_loop", "double_or_nothing", "gordian_knot", "hello_bonjour", "linked_list", "morse_code", "mutable_immutable", "out_of_order", "quack", "reboot_universe", "reverse_polarity", "sleepless","standard_input", "string_length", "structure_sizing", "there_and_back","three_and_a_bit", "type_conversion", "vec_size", "waiting_for_godot", "x_marks_spot"]
